@@ -713,15 +713,7 @@ Do not commit:
 
 ## License
 
-The repository is intended to be published as an open-source educational
-project.
-
-A permissive license such as the MIT License is suitable for this type
-of project. The final license should be selected before publication.
-
-If the MIT License is selected, the repository root will contain a
-`LICENSE` file with the standard MIT License text and the appropriate
-copyright notice.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Project Status
 
